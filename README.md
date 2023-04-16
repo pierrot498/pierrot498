@@ -1,5 +1,5 @@
 <p align="center">
-    <img align="center" alt="visitors" src="./profile_animation.svg" />
+    <img align="center" alt="visitors" src="./profile_animation.png" />
 </p>
 
 <div align="center">
