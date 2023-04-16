@@ -13,7 +13,7 @@ Hi. I am [Pierre-Etienne Ho.](https://www.linkedin.com/in/blockchain-pierre-etie
     
 [![Twitter Follow](https://img.shields.io/twitter/follow/hopierrot?style=flat&colorA=225fb2&colorB=225fb2&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=hopierrot)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat&color=225fb2)](https://www.linkedin.com/in/blockchain-pierre-etienne-de/)
-[![GitHub followers](https://img.shields.io/github/followers/hoppierot?style=flat&colorA=225fb2&colorB=225fb2&label=Follow)](https://github.com/pierrot498)
+[![GitHub followers](https://img.shields.io/github/followers/pierrot498?style=flat&colorA=225fb2&colorB=225fb2&label=Follow)](https://github.com/pierrot498)
 [![GitHub stars](https://img.shields.io/github/stars/pierrot498?style=flat&colorA=225fb2&colorB=225fb2)](https://github.com/pierrot498)
 ![Views](https://komarev.com/ghpvc/?username=pierrot498P&color=225fb2)
 </div>
